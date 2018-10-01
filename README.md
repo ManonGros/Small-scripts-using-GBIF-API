@@ -1,6 +1,6 @@
 # Small scripts using GBIF API
 
-This repository contains a few scripts I wrote to use the GBIF API with python.
+This repository contains a few scripts I wrote to use the [GBIF API](https://www.gbif.org/developer/summary) with python.
 
 ## Count the number of species occurring in a list of countries
 
