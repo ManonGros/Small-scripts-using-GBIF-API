@@ -11,3 +11,8 @@ For usage, see for example: [How many butterfly species do we have per continent
 ## Counts the number of unique dataset keys and collection codes associated with  preserved specimens
 
 See example [here](https://github.com/ManonGros/Small-scripts-using-GBIF-API/blob/master/datasets_containing_preserved_specimens/dataset_containing_preserved_specimens.ipynb)
+
+## Look for words in the dataset description which could be associated with a dataset type
+
+The model is not good but the script could be reused for something else.
+See the notebook [here](https://github.com/ManonGros/Small-scripts-using-GBIF-API/blob/master/words_associated_with_dataset_type_naive_baysian_model/gather_dataset_descriptions_markdown.ipynb)
