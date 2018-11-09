@@ -1,0 +1,157 @@
+word	replacement
+ de 	 
+ del 	 
+ con 	 
+ para 	 
+ que 	 
+ este 	 
+ el 	 
+ yearly 	 
+ e 	 
+ o 	 
+netherlands 	 
+ireland 	 
+ por 	 
+ como 	 
+ nl 	 
+familia	family
+clase	class
+información	information
+territoire	territory
+ brussels 	 
+género	genus
+validé	validated
+ m 	 
+diferentes	different
+différents	different
+flemish 	 
+ south 	 
+flanders 	 
+organiz	organis
+britain 	 
+registros	regist
+registro	regist
+registre	regist
+registration	regist
+register	regist
+registry	regist
+ permet 	allow
+réseau	network
+ más 	 
+ région 	region
+ especies 	 species 
+ especie 	 species 
+ cada 	 each 
+ una 	 
+colombia 	 
+ los 	 
+ además 	 
+ grey 	 
+ dobservateur	 of observer
+ projet	 project
+ biodiversité 	 biodiversity 
+ mouse 	 
+ mice 	 
+ etou 	 
+flies 	fly 
+ butterfly 	 
+ dutch 	 
+ moth	 
+ régionale	 regional
+ bee 	 
+ dragonfly 	 
+ portugal 	 
+ mist 	 
+ pellet 	 
+terme	term
+ lévolution 	 the evolution 
+ développement	 development
+ mycologists 	 
+ mycologist 	 
+ donc 	 
+ fait 	 
+ groupe	 group
+ bénévole	 volunteer
+ lobservatoire 	 the observatory 
+ œuvre 	 
+ cf 	 
+ na 	 
+ nas 	 
+ coleção	 collection 
+ museu 	 museum 
+ museo 	 museum 
+ herbário 	 herbarium 
+ herbier 	 herbarium 
+ slug 	 
+ den 	 
+ muséum 	 museum 
+ espécie	 species 
+ depositado 	 deposited 
+ km 	 
+ humidity 	 
+ michael 	 
+ mieux 	 better 
+ scientifique	 scientific
+ transmise	 transmitted
+ dinformation 	 
+ monitored 	 monitor 
+ ligne	 line
+ thousand 	 
+ notre 	 our 
+ larva 	 
+ larvae 	 
+ école	 school
+ escuela	 school
+ voluntario	 volunteer
+ voluntaria	 volunteer
+ orthoptera 	 
+ aficionado	 amateur
+ privado	 private
+ privada	 private
+ privé	 private
+ privée 	private
+ citoyen	 citizen
+ citoyenne	 citizen
+ ciudadano	 citizen
+ ciudadana	 citizen
+ shrew	 
+ temporel	 temporal
+ twice 	 
+ wintering 	 
+ pdf 	 
+ observador 	 observer 
+ observadores 	 observers
+ trabajo de campo 	 fieldwork 
+ bi 	 
+herbario	herbarium
+ denmark 	 
+ danish 	 
+ spanish 	 
+httpcreativecommonsorgpublicdomainzero 	 
+localité	locality
+parfois	sometimes
+ creative 	 
+données	data
+ marine 	 
+ dacquisition 	 of acquisition 
+plusieurs	several
+récoltées	collected
+ sagit 	 
+jeu de donnée	 dataset
+ donnée	 data
+espèce	species
+publique	public
+étudiant	student
+calais 	 
+débuté	started
+ atlas 	 
+paticipative	citizen
+live 	 
+oiseaux	birds
+investigación	research
+universidad	university
+université	university
+winter 	 
+ http	 
+ bat 	 
+ cadre 	 
