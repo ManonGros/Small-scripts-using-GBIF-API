@@ -1,14 +1,14 @@
-## Examples of use of GRSciColl function
+## Examples of use of GRSciColl export function
 
-Downloading all GRSciColl institutions: http://api.gbif.org/v1/grscicoll/institution/export
-Downloading US institutions: http://api.gbif.org/v1/grscicoll/institution/export?country=US
-Downloading Argentinian institutions: http://api.gbif.org/v1/grscicoll/institution/export?country=AR
+* Downloading all GRSciColl institutions: http://api.gbif.org/v1/grscicoll/institution/export
+* Downloading US institutions: http://api.gbif.org/v1/grscicoll/institution/export?country=US
+* Downloading Argentinian institutions: http://api.gbif.org/v1/grscicoll/institution/export?country=AR
 
-Downloading US Federal institutions: http://api.gbif.org/v1/grscicoll/institution/export?institutionalGovernance=FEDERAL&country=US
+* Downloading US Federal institutions: http://api.gbif.org/v1/grscicoll/institution/export?institutionalGovernance=FEDERAL&country=US
 
-Downloading all GRSciColl collections: http://api.gbif.org/v1/grscicoll/collection/export
-Downloading US collections: http://api.gbif.org/v1/grscicoll/collection/export?country=US
-Downloading collections containing exoskeletons: http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS
+* Downloading all GRSciColl collections: http://api.gbif.org/v1/grscicoll/collection/export
+* Downloading US collections: http://api.gbif.org/v1/grscicoll/collection/export?country=US
+* Downloading collections containing exoskeletons: http://api.gbif.org/v1/grscicoll/collection/export?preservationType=BIOLOGICAL_EXOSKELETONS
 
 ## List of searchable parameters
 
